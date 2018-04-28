@@ -11,8 +11,8 @@ email: crowekevin5@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  This is my first site. It is a work in progress. I hope you enjoy it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: n/a
+url: "https://www.linkedin.com/in/kalico/" # the base hostname & protocol for your site
+twitter_username:
 github_username:  kcrowe234
 
 # Build settings
